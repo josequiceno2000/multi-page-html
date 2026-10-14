@@ -1,1 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
+body {
+  background: linear-gradient(to bottom right, #D9D9D9, #737373);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+main {
+  background-color: black;
+}
