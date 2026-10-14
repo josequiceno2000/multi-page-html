@@ -38,13 +38,13 @@
   - [x] Select color scheme
   - [ ] ~Create style guide~
 - [ ] Make designs in Figma
-  - [ ] Index
-    - [ ] Favicon
-    - [ ] Site icons
+  - [x] Index
+    - [x] Favicon
+    - [ ] ~Site icons~
     - [x] Background
-    - [ ] Nav
-    - [ ] Side Nav
-    - [ ] Footer Nav
+    - [x] Nav
+    - [x] Side Nav
+    - [ ] ~Footer Nav~
   - [ ] Articles
     - [ ]  Basic page content
   - [ ] Projects
