@@ -37,7 +37,7 @@
   - [x] Select font(s)
   - [x] Select color scheme
   - [ ] ~Create style guide~
-- [ ] Make designs in Figma
+- [x] Make designs in Figma
   - [x] Index
     - [x] Favicon
     - [ ] ~Site icons~
@@ -45,12 +45,12 @@
     - [x] Nav
     - [x] Side Nav
     - [ ] ~Footer Nav~
-  - [ ] Articles
-    - [ ]  Basic page content
+  - [x] Articles
+    - [x]  Basic page content
   - [x] Projects
     - [x]  Basic page content
-  - [ ] Contact
-    - [ ]  Basic page content
+  - [x] Contact
+    - [x]  Basic page content
 - [ ] Code pages
   - [ ] Index
   - [ ] Articles
