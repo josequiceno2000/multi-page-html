@@ -27,6 +27,12 @@
 
 ## Procedure
 - [ ] Create mood board
+  - [x] Create project in Figma
+  - [x] Collect inspiration from Pinterest
+  - [x] Collect inspiration from Google
+  - [x] Collect inspiration from Dribble
+  - [x] Select top 2 inspirations
+  - [x] Organize everything in mood board
 - [ ] Select design elements
 - [ ] Make design in Figma
 - [ ] Code page
