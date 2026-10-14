@@ -3,6 +3,7 @@
 :root {
   font-size: 16px;
   --white: #FFF;
+  --text-shadow: #fdfdfdb4;
 }
 
 body {
@@ -33,17 +34,38 @@ body {
 
 .site__title {
   color: var(--white);
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   text-transform: uppercase;
+  transition: all 300ms ease-in-out;
+}
+
+.site__title:hover,
+.nav__link--wrapper:hover {
+  transform: scale(1.02);
+}
+
+.site__title:active,
+.nav__link--wrapper:active {
+  text-shadow: 1px 1px 10px var(--text-shadow);
+}
+
+
+.site__link {
+  color: inherit;
+  text-decoration: none;
 }
 
 .nav__links{
   display: flex;
   gap: 40px;
   list-style-type: none;
+}
+
+.nav__link--wrapper {
+  transition: all 300ms ease-in-out;
 }
 
 .nav__link {
