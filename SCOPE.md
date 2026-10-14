@@ -26,7 +26,7 @@
 - [ ] One JS function for each page
 
 ## Procedure
-- [ ] Create mood board
+- [x] Create mood board
   - [x] Create project in Figma
   - [x] Collect inspiration from Pinterest
   - [x] Collect inspiration from Google
@@ -34,7 +34,14 @@
   - [x] Select top 2 inspirations
   - [x] Organize everything in mood board
 - [ ] Select design elements
+  - [ ] Select font(s)
+  - [ ] Select color scheme
+  - [ ] Create style guide
 - [ ] Make design in Figma
-- [ ] Code page
+- [ ] Code pages
+  - [ ] Index
+  - [ ] Articles
+  - [ ] Projects
+  - [ ] Contact
 - [ ] Review page
 - [ ] Document in README
