@@ -47,8 +47,8 @@
     - [ ] ~Footer Nav~
   - [ ] Articles
     - [ ]  Basic page content
-  - [ ] Projects
-    - [ ]  Basic page content
+  - [x] Projects
+    - [x]  Basic page content
   - [ ] Contact
     - [ ]  Basic page content
 - [ ] Code pages
