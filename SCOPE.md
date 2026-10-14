@@ -33,10 +33,10 @@
   - [x] Collect inspiration from Dribble
   - [x] Select top 2 inspirations
   - [x] Organize everything in mood board
-- [ ] Select design elements
-  - [ ] Select font(s)
-  - [ ] Select color scheme
-  - [ ] Create style guide
+- [x] Select design elements
+  - [x] Select font(s)
+  - [x] Select color scheme
+  - [ ] ~Create style guide~
 - [ ] Make design in Figma
 - [ ] Code pages
   - [ ] Index
