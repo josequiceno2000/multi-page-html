@@ -16,6 +16,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  cursor: url('assets/img/cursor.svg') 4 4, auto;
+  
 }
 
 .bg__overlay--frost {
@@ -127,6 +129,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 26px;
+  padding-inline-start: 8px;
 }
 
 .side__link {
