@@ -53,8 +53,8 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: 1300px;
-  padding: 32px 24px;
+  
+  padding: 32px 80px;
   animation-name: comeDown;
   animation-duration: 3s;
 }
@@ -102,6 +102,43 @@ body {
   text-transform: lowercase;
   text-decoration: none;
 }
+
+/* 
+
+* SIDE NAV
+
+*/
+
+
+.side__nav--container {
+  position: absolute;
+  right: 120px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  margin: auto 0;
+  gap: 0px;
+}
+
+
+.side__links {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+.side__link {
+  text-decoration: none;
+  color: var(--white);
+  text-transform: lowercase;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+
+
 
 /* 
 
