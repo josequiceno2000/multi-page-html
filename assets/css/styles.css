@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  cursor: url('../img/cursor.svg') 4 4, auto;
+  cursor: url('../img/cursor.svg') 5 5, auto;
 }
 
 
@@ -151,7 +151,7 @@ body {
 .site__link:hover,
 .nav__link:hover,
 .side__link:hover {
-  cursor: url('../img/cursor.svg') 4 4, none;
+  cursor: url('../img/cursor.svg') 5 5, none;
 }
 
 
@@ -194,3 +194,9 @@ body {
   }
 
 }
+
+/* 
+
+* Respo
+
+*/
