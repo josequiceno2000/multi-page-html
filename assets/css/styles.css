@@ -16,9 +16,10 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  cursor: url('assets/img/cursor.svg') 4 4, auto;
-  
+  cursor: url('../img/cursor.svg') 4 4, auto;
 }
+
+
 
 .bg__overlay--frost {
   position: absolute;
@@ -73,7 +74,7 @@ body {
 
 .site__title:hover,
 .nav__link--wrapper:hover {
-  transform: scale(1.02);
+  transform: scale(1.04);
 }
 
 .site__title:active,
@@ -133,13 +134,25 @@ body {
 }
 
 .side__link {
+  display: inline-block;
   text-decoration: none;
   color: var(--white);
   text-transform: lowercase;
   font-weight: 300;
   font-size: 1rem;
+  transition: all 700ms ease-in-out;
+  transform-origin: left center;
 }
 
+.side__link:hover {
+  font-size: 1.4rem;
+}
+
+.site__link:hover,
+.nav__link:hover,
+.side__link:hover {
+  cursor: url('../img/cursor.svg') 4 4, none;
+}
 
 
 
